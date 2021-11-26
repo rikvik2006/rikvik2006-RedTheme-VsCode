@@ -1,0 +1,22 @@
+{
+    "name": "rikvik2006-redtheme",
+    "displayName": "rikvik2006 RedTheme",
+    "description": "Il mio tema che usero solo io quiindi non c'è bisogno di una descrizione",
+    "version": "0.0.1",
+    "icon": "icon.jpg",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "rikvik2006 Il tema Rosso, il ritorno la vendetta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rikvik2006 Il tema Rosso, il ritorno la vendetta-color-theme.json"
+            }
+        ]
+    }
+}
