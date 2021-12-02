@@ -7,6 +7,13 @@ If you share this opinion with me then what is up to installing the theme.
 
 ## Screenshots
 
+HTML
+
+![HTML](img/html.png = )
+
+CSS
+
+![css](img/css.png)
 
 
 ### For more information
