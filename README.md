@@ -1,10 +1,13 @@
-# README
+# rikvik2006 red theme
 ## This is the README for your extension "rikvik2006-redtheme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Hi, I'm rikvik2006, a guy with a passion to become a full-stack web developer.
+I created this theme since I spend countless hours on Visual Studio Code, and so I decided to create a theme with the colors I liked the most.
+If you share this opinion with me then what is up to installing the theme.
+
+## Screenshots
+
+
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
