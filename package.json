@@ -3,6 +3,7 @@
     "displayName": "rikvik2006 RedTheme",
     "description": "Il mio tema che usero solo io quiindi non c'è bisogno di una descrizione",
     "version": "0.0.1",
+    "icon": "icon.png",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/rikvik2006/rikvik2006-RedTheme-VsCode.git"
