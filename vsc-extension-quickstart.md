@@ -1,28 +1,28 @@
-# Welcome to your VS Code Extension
+# rikvik2006 red theme
 
-## What's in the folder
+## This is the README for your extension "rikvik2006-redtheme"
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/rikvik2006 Il tema Rosso, il ritorno la vendetta-color-theme.json` - the color theme definition file.
+Hi, I'm rikvik2006, a guy with a passion to become a full-stack web developer.
+I created this theme since I spend countless hours on Visual Studio Code, and so I decided to create a theme with the colors I liked the most.
+If you share this opinion with me then what is up to installing the theme.
 
-## Get up and running straight away
+## Screenshots
 
-* Press `F5` to open a new window with your extension loaded.
-* Open `File > Preferences > Color Themes` and pick your color theme.
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) .
+HTML
 
-## Make changes
+![HTML](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/html.png)
 
-* Changes to the theme file are automatically applied to the Extension Development Host window.
+CSS
 
-## Adopt your theme to Visual Studio Code
+![css](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/css.png)
 
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
+JS
 
-To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
+![js](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/js.png)
 
-## Install your extension
+### For more information
 
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+**Enjoy!**

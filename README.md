@@ -1,4 +1,5 @@
 # rikvik2006 red theme
+
 ## This is the README for your extension "rikvik2006-redtheme"
 
 Hi, I'm rikvik2006, a guy with a passion to become a full-stack web developer.
@@ -9,14 +10,14 @@ If you share this opinion with me then what is up to installing the theme.
 
 HTML
 
-![HTML](img/html.png = )
+![HTML](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/html.png)
 
 CSS
 
-![css](img/css.png)
-
+![css](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/css.png)
 
 ### For more information
+
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
