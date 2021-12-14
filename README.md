@@ -15,6 +15,10 @@ HTML
 
 ![HTML](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/html.png)
 
+NODE
+
+![node](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/nodejs.png)
+
 CSS
 
 ![css](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/css.png)
@@ -23,13 +27,9 @@ JS
 
 ![js](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/js.png)
 
-NODE
-
-![node](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/nodejs.png)
-
 ### For more information
 
 * [All source files](https://github.com/rikvik2006/rikvik2006-RedTheme-VsCode)
-* [Relase](https://help.github.com/articles/markdown-basics/)
+* [All Relase](https://github.com/rikvik2006/rikvik2006-RedTheme-VsCode/releases)
 
 **Enjoy!**
