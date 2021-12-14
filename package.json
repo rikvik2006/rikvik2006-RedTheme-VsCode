@@ -1,9 +1,9 @@
 {
     "name": "rikvik2006-redtheme",
     "displayName": "rikvik2006 RedTheme",
-    "description": "Il mio tema che usero solo io quiindi non c'è bisogno di una descrizione",
+    "description": "rikvik2006 The RedTheme, all colors are red",
     "version": "0.0.1",
-    "icon": "icon.png",
+    "icon": "img/icon.jpg",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/rikvik2006/rikvik2006-RedTheme-VsCode.git"
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "rikvik2006 Il tema Rosso, il ritorno la vendetta",
+                "label": "rikvik2006 RedTheme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/rikvik2006 Il tema Rosso, il ritorno la vendetta-color-theme.json"
+                "path": "./themes/rikvik2006 RedTheme, il ritorno la vendetta-color-theme.json"
             }
         ]
     }
