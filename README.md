@@ -1,4 +1,4 @@
-# rikvik2006 red theme
+# rikvik2006 The RedTheme
 
 ## This is the README for your extension "rikvik2006-redtheme"
 
@@ -24,10 +24,9 @@ NODE
 
 ![node](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/nodejs.png)
 
-
 ### For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [All source files](https://github.com/rikvik2006/rikvik2006-RedTheme-VsCode)
+* [Relase](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
