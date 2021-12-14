@@ -1,5 +1,8 @@
 # rikvik2006 The RedTheme
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/rikvik2006/rikvik2006-RedTheme-VsCode?logo=github&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rikvik2006/rikvik2006-RedTheme-VsCode?logo=github&style=for-the-badge)
+
 ## This is the README for your extension "rikvik2006-redtheme"
 
 Hi, I'm rikvik2006, a guy with a passion to become a full-stack web developer.
