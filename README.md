@@ -16,6 +16,15 @@ CSS
 
 ![css](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/css.png)
 
+JS
+
+![js](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/js.png)
+
+NODE
+
+![node](https://raw.githubusercontent.com/rikvik2006/rikvik2006-RedTheme-VsCode/master/img/nodejs.png)
+
+
 ### For more information
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
